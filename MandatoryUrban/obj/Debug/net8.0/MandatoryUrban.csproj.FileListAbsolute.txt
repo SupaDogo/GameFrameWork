@@ -1,0 +1,12 @@
+C:\Users\matyu\source\repos\MandatoryUrban\MandatoryUrban\obj\Debug\net8.0\MandatoryUrban.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matyu\source\repos\MandatoryUrban\MandatoryUrban\obj\Debug\net8.0\MandatoryUrban.AssemblyInfoInputs.cache
+C:\Users\matyu\source\repos\MandatoryUrban\MandatoryUrban\obj\Debug\net8.0\MandatoryUrban.AssemblyInfo.cs
+C:\Users\matyu\source\repos\MandatoryUrban\MandatoryUrban\obj\Debug\net8.0\MandatoryUrban.csproj.CoreCompileInputs.cache
+C:\Users\matyu\source\repos\MandatoryUrban\MandatoryUrban\bin\Debug\net8.0\MandatoryUrban.deps.json
+C:\Users\matyu\source\repos\MandatoryUrban\MandatoryUrban\bin\Debug\net8.0\MandatoryUrban.dll
+C:\Users\matyu\source\repos\MandatoryUrban\MandatoryUrban\bin\Debug\net8.0\MandatoryUrban.pdb
+C:\Users\matyu\source\repos\MandatoryUrban\MandatoryUrban\obj\Debug\net8.0\MandatoryUrban.dll
+C:\Users\matyu\source\repos\MandatoryUrban\MandatoryUrban\obj\Debug\net8.0\refint\MandatoryUrban.dll
+C:\Users\matyu\source\repos\MandatoryUrban\MandatoryUrban\obj\Debug\net8.0\MandatoryUrban.pdb
+C:\Users\matyu\source\repos\MandatoryUrban\MandatoryUrban\obj\Debug\net8.0\ref\MandatoryUrban.dll
+C:\Users\matyu\source\repos\MandatoryUrban\MandatoryUrban\obj\Debug\net8.0\MandatoryUrban.sourcelink.json
